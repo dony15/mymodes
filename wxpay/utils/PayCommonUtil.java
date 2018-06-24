@@ -1,4 +1,4 @@
-package com.qfedu.weixinpay.utils;
+package pay.wx.utils;
 
 import java.io.IOException;
 import java.text.SimpleDateFormat;
@@ -230,8 +230,9 @@ public class PayCommonUtil {
         //String prepay_id = (String) map.get("prepay_id");
 
         String urlCode = (String) map.get("code_url");
-        String return_code = (String) map.get("return_code");
-        return "{\"code_url\":\""+urlCode+"\",\"return_code\":\""+return_code+"\"}";
+//        String return_code = (String) map.get("return_code");
+//        return "{\"code_url\":\""+urlCode+"\",\"return_code\":\""+return_code+"\"}";
+        return urlCode;
     }
 
 

@@ -1,4 +1,4 @@
-package com.qfedu.weixinpay.utils;
+package pay.wx.utils;
 
 import java.io.ByteArrayInputStream;
 import java.io.IOException;

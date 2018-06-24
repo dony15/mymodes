@@ -1,4 +1,4 @@
-package com.qfedu.weixinpay.utils;
+package pay.wx.utils;
 
 /**
  * Created by jackiechan on 2018/2/2/����10:33

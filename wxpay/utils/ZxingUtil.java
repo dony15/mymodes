@@ -1,4 +1,4 @@
-package com.qfedu.weixinpay.utils;
+package pay.wx.utils;
 
 import java.awt.image.BufferedImage;
 import java.io.File;
